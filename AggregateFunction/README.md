@@ -14,6 +14,7 @@ placed before the hadoop files as shown here.
 2. Add all the processed data files under an input folder in this project. 
 
 3. Set up the running configurations as shown in the following screenshot. Take note of the working directory where you place your project folder in.
+
 ![configurations.png](configurations.png)
 
-4. Run the configurations and you will see an output folder with the csv file required for the Tableau visualizations later.
+5. Run the configurations and you will see an output folder with the csv file required for the Tableau visualizations later.

@@ -1,1 +1,1 @@
-# CS4225_Project
+# CS4225 Project: Sentiment Analysis of the Ukraine-Russian Conflict
