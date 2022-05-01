@@ -2,7 +2,7 @@
 
 1. Ensure the directory has been set correctly as reflected in the notebook.
 
-2. To extract the standford data, run the following code in the Training RNN file under training the model:
+2. To extract the Stanford Sentiment Treebank, run the following code in the Training RNN file under training the model:
 
 ```
 !wget http://nlp.stanford.edu/data/glove.6B.zip
@@ -10,7 +10,7 @@
 !unzip -u "/content/gdrive/MyDrive/CS4225/ML team/Pre-Processed Data/stanfordSentimentTreebank/glove.6B.zip" -d "/content/gdrive/MyDrive/CS4225/ML team/Pre-Processed Data/"
 ```
 
-3. Ensure that the notebook has been ran and that a file by the name of "processed_dictionary_sentiments.csv" has been generated in the Data folder
+3. Ensure that the code has finished running and that a file by the name of "processed_dictionary_sentiments.csv" has been generated in the Data folder
 
 4. Launch the "RNN Training.ipynb" 
 
