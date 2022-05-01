@@ -17,7 +17,7 @@ Our project is divided into 5 main parts and run in the following sequence:
 To run the entire project, please refer to the "README.md" file in the respective folder. 
 For the dashboard, please use the full screen mode for the best interactive and viewing experience. 
 
-## Results
+## Data and Results
 Since the size of the initial datasets, intermediate results and the final results are huge, we have saved all of them to the Google Drive folders. You can refer to them here:
 
 - Datasets - [Folder Link](https://drive.google.com/drive/folders/1ZE8SuO8Ata4j8I5GW8qn7EHYmOu7g_xe?usp=sharing)
