@@ -18,6 +18,6 @@ To run the entire project, please refer to the "README.md" file in the respectiv
 For the dashboard, please use the full screen mode for the best interactive and viewing experience. 
 
 ## Results
-Since the size of the initial data and intermediate results are huge, they are saved to the Google Drive folders. 
+Since the size of the initial datasets, intermediate results and the final results are huge, we have saved all of them to the Google Drive folders. You can refer to them here:
 
 - Post Processed Data - [Folder Link](https://drive.google.com/drive/folders/1L0tegdukHRIrxXxI7TgnlKkxh3_e9Paz?usp=sharing)
