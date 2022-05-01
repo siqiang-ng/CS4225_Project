@@ -4,7 +4,7 @@
 2. Edit the variables as necessary (e.g. `LANG = "fr"`)
 3. Run the entire notebook 
 
-## Combining the output 
+## Combining all the languages into 1 file
 
 Run the following commands in a Unix shell (e.g. Terminal on macOS)
 
