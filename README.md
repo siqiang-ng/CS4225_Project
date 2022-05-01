@@ -7,11 +7,11 @@ with the recent Ukraine-Russia conflict.
 
 ## Guide to the use of codes
 Our project is divided into 5 main parts and run in the following sequence:
-1. Data Scraping - "Scraping" folder
-2. Data Pre-Processing - "Pre-Processing" folder
-3. Sentiment Analysis using Lexicon-Based Approach - "Sentiment Analysis/lexicon" folder
-4. Sentiment Analysis using Machine Learning Approach - "Sentiment Analysis/model" folder
-5. Data Post-Processing - "AggregateFunction" folder 
+1. Data Scraping - `Scraping` folder
+2. Data Pre-Processing - `Pre-Processing` folder
+3. Sentiment Analysis using Lexicon-Based Approach - `Sentiment Analysis/lexicon` folder
+4. Sentiment Analysis using Machine Learning Approach - `Sentiment Analysis/model` folder
+5. Data Post-Processing - `AggregateFunction` folder 
 6. Tableau Dashboard - [Access Link](https://public.tableau.com/app/profile/ng.si.qiang3018/viz/FinalSentimentAnalysis/CombinedDashboard)
 
 To run the entire project, please refer to the "README.md" file in the respective folder. 
