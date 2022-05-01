@@ -20,4 +20,7 @@ For the dashboard, please use the full screen mode for the best interactive and 
 ## Results
 Since the size of the initial datasets, intermediate results and the final results are huge, we have saved all of them to the Google Drive folders. You can refer to them here:
 
+- Datasets - [Folder Link](https://drive.google.com/drive/folders/1ZE8SuO8Ata4j8I5GW8qn7EHYmOu7g_xe?usp=sharing)
+- Pre Processed Data - [Folder Link](https://drive.google.com/drive/folders/1M7_rQ-Bu5h5AWshxAdQOiWw8E5AslICa?usp=sharing)
+- Sentiment Analysis Results - [Folder Link](https://drive.google.com/drive/folders/1h1k7U3u8mF95inCNpHYWKl_qhNs2BOjx?usp=sharing)
 - Post Processed Data - [Folder Link](https://drive.google.com/drive/folders/1L0tegdukHRIrxXxI7TgnlKkxh3_e9Paz?usp=sharing)
