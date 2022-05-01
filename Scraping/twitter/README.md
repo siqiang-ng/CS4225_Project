@@ -13,5 +13,5 @@ Scrape tweets using Python3 and twint.
 
 1. Install required dependencies.
 2. Scrape.
-   a. Run twitter/twitter.py to scrap tweets
-   b. Run reddit/process_submissions.py to process reddit submissions.
+   1. Run twitter/twitter.py to scrap tweets
+   2. Run reddit/process_submissions.py to process reddit submissions.
