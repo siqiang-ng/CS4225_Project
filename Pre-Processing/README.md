@@ -16,8 +16,8 @@ Pre-process tweets and reddit posts using Python3.
 
 1. Install required dependencies.
 2. Process raw tweets and reddit posts.
-    a. Run twitter/process.py to process tweets.
-    b. Run reddit/comments/process_comments.py to process reddit comments.
-    c. Run reddit/submissions/process_submissions.py to process reddit submissions.
+    1. Run twitter/process.py to process tweets.
+    2. Run reddit/comments/process_comments.py to process reddit comments.
+    3. Run reddit/submissions/process_submissions.py to process reddit submissions.
 3. Run group_by_lang.py to group posts.
 4. Run pre_process.py to tokenize and remove stopwords.
